@@ -105,11 +105,6 @@ a,
   position: relative;
 }
 
-.result__video-container .preloader,
-.content__list-container .preloader {
-  position: absolute;
-}
-
 .result__video {
   width: 100%;
   height: 100%;
