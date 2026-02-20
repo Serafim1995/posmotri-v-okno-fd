@@ -87,7 +87,6 @@ a,
   font-family: "Oswald", sans-serif;
   font-weight: 700;
   font-size: 75px;
-  font-style: bold;
   line-height: 94%;
   text-transform: uppercase;
 }
@@ -166,7 +165,6 @@ a,
   overflow: hidden;
   font-weight: 700;
   font-size: 30px;
-  font-style: bold;
   line-height: 100%;
   text-transform: uppercase;
   text-overflow: ellipsis;
