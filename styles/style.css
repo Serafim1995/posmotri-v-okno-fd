@@ -60,7 +60,6 @@ button,
 [type="reset"],
 a,
 .content__card-link,
-.search-form__label,
 .more-button {
   cursor: pointer;
 }
@@ -274,6 +273,7 @@ a,
   align-items: center;
   gap: 5px;
   width: fit-content;
+  cursor: pointer;
 }
 
 .search-form__textfield {
